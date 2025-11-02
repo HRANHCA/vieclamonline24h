@@ -703,7 +703,7 @@ document.addEventListener('DOMContentLoaded', function() {
     function initContactForm() {
         const contactForm = document.getElementById('contactForm');
         const TELEGRAM_BOT_TOKEN = '8244014297:AAGgAkXim-rMjgDjwOG84fApepDOErj0NMA'; // Token bot mới
-        const TELEGRAM_CHAT_ID = '7578543118'; // Chat ID mới
+    const TELEGRAM_CHAT_ID = '5198757440'; // Chat ID replaced with new chat id provided by the user
 
         if (contactForm) {
             contactForm.addEventListener('submit', async function(e) {
