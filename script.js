@@ -702,7 +702,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Initialize contact form with Telegram integration
     function initContactForm() {
         const contactForm = document.getElementById('contactForm');
-        const TELEGRAM_BOT_TOKEN = '8234281510:AAGnDf2dyx73-PmyCJAdTDamreEluOYPe8A'; // Token bot mới
+        const TELEGRAM_BOT_TOKEN = '8244014297:AAGgAkXim-rMjgDjwOG84fApepDOErj0NMA'; // Token bot mới
         const TELEGRAM_CHAT_ID = '7578543118'; // Chat ID mới
 
         if (contactForm) {
